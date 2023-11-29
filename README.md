@@ -6,6 +6,9 @@ This project involves a comprehensive time series analysis of Take-Two Interacti
 ## Motivation
 GTA 6 is among the most highly anticipated games currently, with its predecessor, GTA 5, having grossed a billion dollars within a decade. Given that Take-Two Interactive's stock is already at an all-time high, there is a strong incentive to analyze how the release of GTA 6 might impact its stock value.
 
+![historical_ttwo](https://github.com/Shubhammer7/Take-two-interactive_stock_prediction/assets/98953981/8b3c3be7-e073-4eb2-bda3-a734e1237e76)
+
+
 ## LSTM and Stock Price Analysis
 LSTM models are a type of recurrent neural network that are well-suited for sequence prediction problems like stock price forecasting. However, they also have limitations, particularly in extrapolating data over time, which is a critical factor in stock analysis.
 
