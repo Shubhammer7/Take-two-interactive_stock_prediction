@@ -12,10 +12,16 @@ GTA 6 is among the most highly anticipated games currently, with its predecessor
 ## LSTM and Stock Price Analysis
 LSTM models are a type of recurrent neural network that are well-suited for sequence prediction problems like stock price forecasting. However, they also have limitations, particularly in extrapolating data over time, which is a critical factor in stock analysis.
 
+![train_test_split](https://github.com/Shubhammer7/Take-two-interactive_stock_prediction/assets/98953981/4ffc427b-dba4-4d29-a50f-349f91878e2e)
+
+
 ### Limitations of LSTM in Extrapolation
 - **Inherent Design**: LSTMs are designed to recognize patterns in historical data but may struggle to predict future events not represented in the past data.
 - **Market Volatility**: The stock market is influenced by a myriad of unpredictable factors, making long-term predictions challenging.
 - **Overfitting Risks**: There is a risk of overfitting the model to historical data, leading to poor performance in real-world scenarios.
+
+![extrapolation](https://github.com/Shubhammer7/Take-two-interactive_stock_prediction/assets/98953981/aa0d410a-67ee-4148-8d2d-f8cda0bc8da1)
+
 
 ## Data Source
 The stock data for Take-Two Interactive has been sourced from [Yahoo Finance API]
